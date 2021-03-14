@@ -20,3 +20,13 @@ Folder for JS (using JS)
 
 ### src/img/
 Folder for Images (using compression)
+
+### Including files
+
+Including files avalible in html, css, js. For including using rigger(). 
+
+Example:
+
+<div>
+//= ./path/to/second/file.html
+</div>
